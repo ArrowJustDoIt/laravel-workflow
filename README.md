@@ -13,4 +13,4 @@
 
 `php artisan key:generate`
 
-#ok enjoy it
+# ok enjoy it
